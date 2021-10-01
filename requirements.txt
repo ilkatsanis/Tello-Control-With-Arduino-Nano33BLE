@@ -1,0 +1,4 @@
+djitellopy2 == 2.4.0
+pyserial
+<Arduino_LSM9DS1.h>
+<Arduino_APDS9960.h>
