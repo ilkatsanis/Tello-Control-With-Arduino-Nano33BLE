@@ -5,7 +5,7 @@ Python and Arduino code is available.
 # Important!
 Using the serial port in Python means that we cannot have the two programs opened at the same port.
 While running the .py program, the serial monitor of Arduino should be closed.
-# Files
+# This repo contains:
 - the detect_Gestures.ino file is the code of detecting gestures from microcontroller
 - detect_gestures_IMU.ino file with the code of cotrolling the drone using gesture and IMU libraries
 - the gestures_Tello.py file is the python script of controlling the drone from the detected gestures
